@@ -16,7 +16,7 @@ This is a Telegram bot that shows weather for any city.
 ## How to run
 
 1. Clone repository:
-git clone https://github.com/yourusername/weather-telegram-bot.git
+[git clone https://github.com/yourusername/weather-telegram-bot.git](https://github.com/SERAGAMI/telegram-assistant.git)
 
 2. Install dependencies:
 pip install -r requirements.txt
